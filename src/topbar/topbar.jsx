@@ -1,3 +1,4 @@
+import Profile from '../img/profile.jpg';
 import './topbar.css';
 
 export default function TopBar() {
@@ -19,7 +20,7 @@ export default function TopBar() {
                 </ul>
             </div>
             <div className="top-right">
-                <img className="top-img" src="https://goo.su/UlxfAE" alt="" />
+                <img className="top-img" src={Profile} alt="" />
                 <i className="top-search-icon fa-solid fa-magnifying-glass"></i>
             </div>
         </div>
