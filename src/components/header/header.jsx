@@ -1,4 +1,4 @@
-import Bg from '../img/bg.jpg';
+import Bg from '../../img/bg.jpg';
 import './header.css';
 
 export default function Header() {

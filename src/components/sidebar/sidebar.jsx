@@ -1,4 +1,4 @@
-import PostOne from '../img/post-1.jpg';
+import PostOne from '../../img/post-1.jpg';
 import './sidebar.css'
 
 export default function Sidebar() {

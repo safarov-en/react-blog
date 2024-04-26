@@ -1,4 +1,4 @@
-import PostBg from '../img/post-bg-one.jpg';
+import PostBg from '../../img/post-bg-one.jpg';
 import './post.css'
 
 export default function Post() {

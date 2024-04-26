@@ -1,11 +1,11 @@
-import Home from "./pages/home/home";
-import TopBar from "./topbar/topbar";
+import TopBar from "./components/topbar/topbar";
+import Single from "./pages/single/single";
 
 function App() {
   return (
     <>
       <TopBar />
-      <Home />
+      <Single />
     </>
   );
 }
