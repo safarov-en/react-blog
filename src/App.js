@@ -1,11 +1,11 @@
 import TopBar from "./components/topbar/topbar";
-import Single from "./pages/single/single";
+import Write from "./pages/write/write";
 
 function App() {
   return (
     <>
       <TopBar />
-      <Single />
+      <Write />
     </>
   );
 }
